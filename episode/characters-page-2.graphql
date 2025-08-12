@@ -1,0 +1,11 @@
+# Query for characters on page 2
+query GetCharactersPage2 {
+  characters(page: 2) {
+    results {
+      id
+      name
+      status
+      image
+    }
+  }
+}

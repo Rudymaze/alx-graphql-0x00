@@ -1,0 +1,20 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "7",
+          "name": "Mr. Meeseeks",
+          "status": "Alive",
+          "image": "https://example.com/meeseeks.png"
+        },
+        {
+          "id": "8",
+          "name": "Evil Morty",
+          "status": "Alive",
+          "image": "https://example.com/evil_morty.png"
+        }
+      ]
+    }
+  }
+}

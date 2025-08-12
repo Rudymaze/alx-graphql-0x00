@@ -1,0 +1,13 @@
+# GraphQL queries to fetch character lists using characters(page: Int) field
+
+# Query for characters on page 1
+query GetCharactersPage1 {
+  characters(page: 1) {
+    results {
+      id
+      name
+      status
+      image
+    }
+  }
+}
