@@ -1,0 +1,10 @@
+{
+  "character(id: 1)": {
+    "id": 1,
+    "name": "Rick Sanchez",
+    "status": "Alive",
+    "species": "Human",
+    "type": "Human",
+    "gender": "Male"
+  }
+}
